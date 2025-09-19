@@ -14,6 +14,7 @@ The included notebook loads *NOAA OISST v2.1 (daily sea surface temperature)* fr
    ```
    or with pip:
    ```bash
+   
    python -m venv .venv && source .venv/bin/activate
    pip install -r requirements.txt
    ```
